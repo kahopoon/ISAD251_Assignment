@@ -1,0 +1,6 @@
+framework module Pods_Kaho_Bar {
+  umbrella header "Pods-Kaho Bar-umbrella.h"
+
+  export *
+  module * { export * }
+}
