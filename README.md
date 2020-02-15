@@ -24,5 +24,5 @@
 ![Alt text](readme-images/ios_admin_show_orders.PNG?raw=true "Frontend Application Show Customers Order Page")
 
 ## Administrator Update Customer Order Page
-![Alt text](readme-images/ios_admin_update_orde.PNG?raw=true "Frontend Application Update Customer Order Page A")
+![Alt text](readme-images/ios_admin_update_order.PNG?raw=true "Frontend Application Update Customer Order Page A")
 ![Alt text](readme-images/ios_admin_update_delivered.PNG?raw=true "Frontend Application Update Customer Order Page B")
