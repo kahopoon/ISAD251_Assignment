@@ -4,7 +4,7 @@
 [![Application Introduction](https://img.youtube.com/vi/Sn5CHDlARus/0.jpg)](https://www.youtube.com/watch?v=Sn5CHDlARus)
 
 ## Product Menu/Shopping Cart Page
-![Alt text](readme-images/ios_menu.PNG?raw=true "Frontend Application Menu Page"){:width="400px"}
+![Alt text](readme-images/ios_menu.PNG?raw=true "Frontend Application Menu Page" | width=400)
 ![Alt text](readme-images/ios_cart.PNG?raw=true "Frontend Application Shopping Cart Page"){:width="400px"}
 
 ## Order and Update Order Page
