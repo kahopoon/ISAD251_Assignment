@@ -1,7 +1,7 @@
 # ISAD251_Assignment
 
 ### Introduction Youtube Video
-[![Application Introduction](https://img.youtube.com/vi/Sn5CHDlARus/0.jpg)](https://www.youtube.com/watch?v=Sn5CHDlARus)
+[![Application Introduction](readme-images/youtube_video_screenshot.png?raw=true "Introduction Youtube Video")](https://www.youtube.com/watch?v=Sn5CHDlARus)
 
 ### Application fact sheet
 This applicatino is a drinks/snack ordering system that serves customers/administrators of a bar. Customers or administrators can trigger different kind of events at a bar with using their mobile device on the mobile application. The system consists of two major components -- frontend application and the backend application. 
