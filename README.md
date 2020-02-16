@@ -25,27 +25,49 @@ It is a ASP.NET Web API application that written by C# programming lanugage, the
 | /api/User/id | PUT | Administrator | Update his/her user account information
 | /api/User/id | DELETE | Customer | Set his/her account to inactive on the system
 | /api/User/id | DELETE | Administrator | Set his/her account to inactive on the system
+| /api/Product/id | GET | Customer | Get specific product information by produc id
+| /api/Product/id | GET | Administrator | Get specific product information by produc id
+| /api/Product | GET | Customer | Get all products' information
+| /api/Product | GET | Administrator | Get all products' information
+| /api/Product | POST | Customer | Not allowed
+| /api/Product | POST | Administrator | Create new product on the system
+| /api/Product/id | PUT | Customer | Not allowed
+| /api/Product/id | PUT | Administrator | Update specific product information by product id
+| /api/Product/id | DELETE | Customer | Not allowed
+| /api/Product/id | DELETE | Administrator | Remove specific product from sale by product id
+| /api/Order/id | GET | Customer | Get his/her specific order information by order id
+| /api/Order/id | GET | Administrator | Get his/her specific order information by order id
+| /api/Order | GET | Customer | Get all his/her orders' information
+| /api/Order | GET | Administrator | Get all customers' orders information
+| /api/Order | POST | Customer | Create new order on the system
+| /api/Order | POST | Administrator | Create new order on the system
+| /api/Order/id | PUT | Customer | Update his/her specific order by order id
+| /api/Order/id | PUT | Administrator | Update customers' specific order by order id
+| /api/Order/id | DELETE | Customer | Cancel his/her specific order by order id
+| /api/Order/id | DELETE | Administrator | Cancel customers' specific order by order id
 
-## Product Menu/Shopping Cart Page
+### Application screenshots
+
+#### Product Menu/Shopping Cart
 ![Alt text](readme-images/ios_menu.PNG?raw=true "Frontend Application Menu Page")
 ![Alt text](readme-images/ios_cart.PNG?raw=true "Frontend Application Shopping Cart Page")
 
-## Order and Update Order Page
+#### Order/Update Order
 ![Alt text](readme-images/ios_order.PNG?raw=true "Frontend Application Order Page")
 ![Alt text](readme-images/ios_edit_order.PNG?raw=true "Frontend Application Update Order Page")
 
-## Edit Order Cart Page/Order Updated Page
+#### Edit Order Cart/Order Updated
 ![Alt text](readme-images/ios_edit_order_add.PNG?raw=true "Frontend Application Edit Order Cart Page")
 ![Alt text](readme-images/ios_order_updated.PNG?raw=true "Frontend Application Order Updated Page")
 
-## Adminitrator Update Product Pages
+#### Adminitrator Update Product
 ![Alt text](readme-images/ios_admin_update_product.PNG?raw=true "Frontend Application Update Product Page A")
 ![Alt text](readme-images/ios_admin_update_price.PNG?raw=true "Frontend Application Update Product Page B")
 
-## Administrator Create Product Page/Show Customers' Orders Page
+#### Administrator Create Product/Show Customers' Orders
 ![Alt text](readme-images/ios_admin_create_product.PNG?raw=true "Frontend Application Create Product Page")
 ![Alt text](readme-images/ios_admin_show_orders.PNG?raw=true "Frontend Application Show Customers Order Page")
 
-## Administrator Update Customer Order Page
+#### Administrator Update Customer Order
 ![Alt text](readme-images/ios_admin_update_order.PNG?raw=true "Frontend Application Update Customer Order Page A")
 ![Alt text](readme-images/ios_admin_update_delivered.PNG?raw=true "Frontend Application Update Customer Order Page B")
