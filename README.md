@@ -71,3 +71,12 @@ It is a ASP.NET Web API application that written by C# programming lanugage, the
 #### Administrator Update Customer Order
 ![Alt text](readme-images/ios_admin_update_order.PNG?raw=true "Frontend Application Update Customer Order Page A")
 ![Alt text](readme-images/ios_admin_update_delivered.PNG?raw=true "Frontend Application Update Customer Order Page B")
+
+### Entity-Relationship Diagram
+![Alt text](readme-images/er_diagram.png?raw=true "Entity-Relationship Diagram")
+
+### Use Case Diagram
+![Alt text](readme-images/use_case_diagram.png?raw=true "Use Case Diagram")
+
+### Sequence Diagram
+![Alt text](readme-images/sequence_diagram.png?raw=true "Sequence Diagram")
