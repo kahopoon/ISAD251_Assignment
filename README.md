@@ -82,23 +82,23 @@ It is a ASP.NET Web API application that written by C# programming lanugage, the
 ![Alt text](readme-images/sequence_diagram.png?raw=true "Sequence Diagram")
 
 ### Backend Application Settings
-![Alt text](readme-images/backend_application_settings.png?raw=true "Backend Application Settings")
+![Alt text](readme-images/backend_application_settings.png?raw=true "Backend Application Settings")\
 SQL connection string can be configue at Startup.cs, connection string credentials has masked and removed at this repository by purpose.
 
 ### Database Note
-![Alt text](readme-images/database_note.png?raw=true "Database Note")
+![Alt text](readme-images/database_note.png?raw=true "Database Note")\
 The Password field at the database is not plain-text passwords and cannot be using directly on the application login, AES decryption is needed and the decryption key is located at the AES class of the backend application.
 
 ### Backend Application Dependencies
-![Alt text](readme-images/backend_application_dependencies.png?raw=true "Backend Application Dependencies")
+![Alt text](readme-images/backend_dependencies.png?raw=true "Backend Application Dependencies")\
 Dependencies:  (1)Entity Framework,  (2)Visual Studio Web Code Generation,  (3)SQL Client
 
 ### Frontend Application Settings
-![Alt text](readme-images/frontend_application_settings.png?raw=true "Frontend Application Settings")
+![Alt text](readme-images/frontend_application_settings.png?raw=true "Frontend Application Settings")\
 Endpoint URL can specific at Constant.swift on the Model Group
 
 ### Frontend Application Dependencies
-![Alt text](readme-images/frontend_application_dependencies.png?raw=true "Frontend Application Dependencies")
+![Alt text](readme-images/frontend_application_dependencies.png?raw=true "Frontend Application Dependencies")\
 iOS application package manager: Cocoapods: https://guides.cocoapods.org/using/getting-started.html  sudo gem install cocoapods
  Dependencies:  (1)Alamofire: https://github.com/Alamofire/Alamofire  (2)SwiftyJSON: https://github.com/SwiftyJSON/SwiftyJSON  (3)IQKeyboardManagerSwift: https://github.com/hackiftekhar/IQKeyboardManager/tree/master/IQKeyboardManagerSwift  (4)SDWebImage: https://github.com/SDWebImage/SDWebImage  To install dependencies, go to directory, run ‘pod install’
 
