@@ -101,13 +101,13 @@ Endpoint URL can specific at Constant.swift on the Model Group
 
 ### Frontend Application Dependencies
 ![Alt text](readme-images/frontend_application_dependencies.png?raw=true "Frontend Application Dependencies")\
-##### iOS application package manager:\
+#### iOS application package manager:
 Cocoapods: https://guides.cocoapods.org/using/getting-started.html
 ```sh
 sudo gem install cocoapods
 ```
 
-##### Dependencies:
+#### Dependencies:
   - (1)Alamofire: https://github.com/Alamofire/Alamofire
   - (2)SwiftyJSON: https://github.com/SwiftyJSON/SwiftyJSON
   - (3)IQKeyboardManagerSwift: https://github.com/hackiftekhar/IQKeyboardManager/tree/master/IQKeyboardManagerSwift
