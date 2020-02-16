@@ -43,7 +43,7 @@ It is a ASP.NET Web API application that written by C# programming lanugage, the
 | /api/Order/id | PUT | Customer | Update his/her specific order by order id
 | /api/Order/id | PUT | Administrator | Update customers' specific order by order id
 | /api/Order/id | DELETE | Customer | Cancel his/her specific order by order id
-| /api/Order/id | DELETE | Administrator | Cancel customers' specific order by order id\
+| /api/Order/id | DELETE | Administrator | Cancel customers' specific order by order id
 
 ### Application screenshots
 
